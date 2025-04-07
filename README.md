@@ -9,6 +9,10 @@ Create a small connector class that will:
   with payload described in code
 - Handle the response appropriately
 
+## Getting Started
+- Clone this repository
+- Create a branch with your name
+
 ## Requirements
 - Transform data between received legacy data and modern API formats (handling null values appropriately)
 - Implement error handling and logging
