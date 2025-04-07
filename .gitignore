@@ -52,3 +52,6 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+/.vs
+/com.whitespacesws.interview/.vs/com.whitespacesws.interview
+/com.whitespacesws.interview/com.whitespacesws.interview.api/com.whitespacesws.interview.api.csproj.user
