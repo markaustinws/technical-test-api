@@ -5,7 +5,8 @@ Task
 Create a small connector class that will:
 - Accept data from a legacy Web Forms application
 - Transform it to a modern format
-- Make an API call to a RESTful endpoint
+- Make an API call to a RESTful endpoint - https://a323da25-bee8-4139-8b5f-096bea873fc2.mock.pstmn.io/customer/:id 
+  with payload described in code
 - Handle the response appropriately
 
 ## Requirements
